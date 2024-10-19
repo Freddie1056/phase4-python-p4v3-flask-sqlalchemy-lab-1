@@ -2,7 +2,7 @@ from os import environ
 import re
 import json
 
-from app import app
+from server.app import app
 
 
 class TestApp:
